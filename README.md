@@ -21,11 +21,11 @@ Choose from various color themes to personalize the app's appearance.
 
 Screenshots:
 
-![my screenshot](./assets/screenshots/Screenshot_1.png)
+![my screenshot](./screenshots/Screenshot_1.png)
 
-![my screenshot](./assets/screenshots/Screenshot_2.png)
+![my screenshot](./creenshots/Screenshot_2.png)
 
-![my screenshot](./assets/screenshots/Screenshot_3.png)
+![my screenshot](./screenshots/Screenshot_3.png)
 
 How to Use:
 Swipe Navigation:
