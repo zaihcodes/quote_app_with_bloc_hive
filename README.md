@@ -23,7 +23,7 @@ Screenshots:
 
 ![my screenshot](./screenshots/Screenshot_1.png)
 
-![my screenshot](./creenshots/Screenshot_2.png)
+![my screenshot](./screenshots/Screenshot_2.png)
 
 ![my screenshot](./screenshots/Screenshot_3.png)
 
