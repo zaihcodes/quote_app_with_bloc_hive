@@ -18,7 +18,9 @@ Save liked and favorite quotes using Hive, a lightweight and fast local database
 Color Customization:
 
 Choose from various color themes to personalize the app's appearance.
+
 Screenshots:
+
 ![my screenshot](./assets/screenshots/Screenshot_1.png)
 
 ![my screenshot](./assets/screenshots/Screenshot_2.png)
